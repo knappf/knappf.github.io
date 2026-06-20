@@ -24,11 +24,11 @@ repository               : "knappf.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "František Knapp"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Charles University"
   uri              : # URL
   email            : "none@example.org" 
 
