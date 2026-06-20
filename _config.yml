@@ -27,10 +27,10 @@ author:
   name             : "František Knapp"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Prague, Czech Republic"
   employer         : "Charles University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "frantisek.knapp@matfyz.cuni.cz" 
 
   # Academic websites
   academia         : # URL
@@ -227,9 +227,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+#  portfolio:
+#    output: true
+#    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
